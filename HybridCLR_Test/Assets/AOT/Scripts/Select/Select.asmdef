@@ -1,0 +1,16 @@
+{
+    "name": "Select",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cd445f7ed78f05b4c96ddaaa4f4ec8cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

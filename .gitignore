@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uild*/ 
+UserSettings/
+Logs/
+
+# Visual Studio cache
+.vs/
+
+# Auto-generated
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
